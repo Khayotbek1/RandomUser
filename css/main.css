@@ -260,7 +260,7 @@ i {
   padding: 2rem 1.5rem;
   text-align: center;
   box-shadow: 0px 5px 10px 2px var(--shadow-color);
-  border: 1px solid rgba(255, 255, 255, 0.377);
+  border: 1px solid var(--primary-color);
   border-radius: 5px;
   transition: .3s;
 }
