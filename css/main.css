@@ -232,6 +232,11 @@ i {
 .form__button {
   background-color: var(--primary-color);
   padding: 0 2rem;
+  transition: .3s;
+}
+
+.form__button:hover{
+  background-color: bisque;
 }
 .form__button-inner {
   display: flex;
